@@ -31,6 +31,7 @@ like opencv and numpy.
 # Blink Detection and Count
 <img width="167" alt="image" src="https://github.com/romitganjoo/Anti-Spoofing-Face-Recognition/assets/38883745/b109a0c1-487c-4cbd-bdaa-4f981f388248">
 
-
+# Publication Link
+- [@IEEE Link](https://ieeexplore.ieee.org/abstract/document/9358795)
 
 
