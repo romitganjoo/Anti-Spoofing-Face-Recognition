@@ -1,3 +1,5 @@
+# This is a sample code to replicate the actual setup on computer
+
 import dlib
 import numpy as np
 import cv2
