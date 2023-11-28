@@ -23,6 +23,7 @@ like opencv and numpy.
 
 # Encoding Process
 ![image](https://github.com/romitganjoo/Anti-Spoofing-Face-Recognition/assets/38883745/ece48a7f-a7c6-4c92-aac2-7aeadd92aa3e)
+
 ![image](https://github.com/romitganjoo/Anti-Spoofing-Face-Recognition/assets/38883745/6c944c4f-f5e7-4f6f-9bed-87444f96950e)
 
 <img width="259" alt="image" src="https://github.com/romitganjoo/Anti-Spoofing-Face-Recognition/assets/38883745/a64457ad-f54a-4388-b728-ebb838559877">
